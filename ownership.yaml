@@ -1,6 +1,6 @@
 ---
 version: 1
-ownership:
+ownership:GitHub Docs
   - name: docs-internal
     long_name: GitHub Docs
     kind: logical

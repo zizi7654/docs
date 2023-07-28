@@ -1,10 +1,10 @@
-# GitHub Docs <!-- omit in toc -->
+# GitHub Docs
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+This repository contains the documentation website code and Markdown source files for [docs.github.com]
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
 
-Use the table of contents icon <img src="/contributing/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to navigate to a specific section quickly.
+Use the table of contents icon <img /> on the top left corner of this document to navigate to a specific section quickly.
 
 ## Contributing
 
@@ -14,7 +14,7 @@ We accept different [types of contributions](https://github.com/github/docs/blob
 
 On the GitHub Docs site, you can click the make a contribution button at the bottom of the page to open a pull request for quick fixes like typos, updates, or link fixes.
 
-<img src="./contributing/images/contribution_cta.png" width="400">
+
 
 For more complex contributions, you can open an issue using the most appropriate [issue template](https://github.com/github/docs/issues/new/choose) to describe the changes you'd like to see.
 
@@ -45,12 +45,10 @@ In addition to the README you're reading right now, this repo includes other REA
 
 ## License
 
-The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
+The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license]
 
-All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
+All other code in this repository is licensed under the [MIT license]
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-
-## Thanks :purple_heart:
+When using the GitHub logos, be sure to follow the [GitHub logo guideline
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!

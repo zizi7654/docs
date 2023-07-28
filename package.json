@@ -1,12 +1,12 @@
 {
-  "name": "docs.github.com",
-  "private": true,
-  "repository": "https://github.com/github/docs",
-  "license": "(MIT AND CC-BY-4.0)",
+  "name": "
+  "private": false,
+  "repository"
+  "license": "
   "author": {
     "name": "GitHub",
     "email": "opensource+docs@github.com",
-    "url": "https://github.com/github/docs"
+    "url": "
   },
   "type": "module",
   "imports": {
@@ -27,7 +27,7 @@
     "lint-translation": "cross-env NODE_OPTIONS=--experimental-vm-modules jest src/content-linter/tests/lint-files.js",
     "openapi-docs": "src/rest/docs.js",
     "playwright-test": "playwright test --project=\"Google Chrome\"",
-    "prepare": "husky install",
+    "
     "prettier": "prettier -w \"**/*.{ts,tsx,js,mjs,scss,yml,yaml}\"",
     "prettier-check": "prettier -c \"**/*.{ts,tsx,js,mjs,scss,yml,yaml}\"",
     "prevent-pushes-to-main": "node script/prevent-pushes-to-main.js",
@@ -73,7 +73,6 @@
     "cheerio-to-text": "0.2.3",
     "classnames": "^2.3.1",
     "connect-datadog": "0.0.9",
-    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dayjs": "^1.11.3",
     "dotenv": "^16.0.1",
@@ -214,14 +213,15 @@
     "unist-util-visit-parents": "6.0.1",
     "website-scraper": "^5.3.1"
   },
-  "optionalDependencies": {
+  
     "esm": "^3.2.25"
+
+{
+ 
   },
-  "engines": {
-    "node": "^16 || ^18 || ^20"
-  },
-  "cacheDirectories": [
-    "node_modules",
-    ".next/cache"
+
+
+
   ]
 }
+ 
