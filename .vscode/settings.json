@@ -1,4 +1,21 @@
 {
   "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.centeredLayoutAutoResize": false,
+  "workbench.editor.closeEmptyGroups": false,
+  "workbench.editor.focusRecentEditorAfterClose": false,
+  "workbench.editor.languageDetectionHints": {
+    "untitledEditors": false,
+    "notebookEditors": false
+  },
+  "workbench.editor.limit.perEditorGroup": false,
+  "workbench.editor.languageDetection": false,
+  "workbench.editor.preferHistoryBasedLanguageDetection": false,
+  "zenMode.restore": false,
+  "accessibility.verbosity.terminal": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "explorer.fileNesting.expand": false,
+  "explorer.expandSingleFolderWorkspaces": false
 }
